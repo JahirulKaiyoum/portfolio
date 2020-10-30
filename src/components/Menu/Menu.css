@@ -1,0 +1,11 @@
+.menu-item{
+    Color: black;
+    margin:25px;
+    
+}
+.menu-item:hover{
+    border-bottom: 2 px solid red;
+    text-decoration: none;
+
+    
+}
