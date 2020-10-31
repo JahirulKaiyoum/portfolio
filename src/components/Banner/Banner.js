@@ -11,9 +11,9 @@ import './Banner.css'
 const Banner = () => {
 
     const [state] = React.useState({
-        title: "I am Jonathan Doe",
+        title: "I am Jahirul Islam",
         text:
-          "i,m Jonathan, professional web developer with long time \
+          "i,m Jahirul Islam , professional web developer with long time \
         experience in this field​",
         image: "https://i.ibb.co/SBLTcDS/formal.png",
       });

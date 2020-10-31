@@ -12,7 +12,7 @@ const Menu = () => {
         <div className="row">
           
         <Navbar bg="red" expand="lg">
-      <Navbar.Brand ><Link to="/">Jahirul Islam</Link>
+      <Navbar.Brand style={{ textDecoration:" none",color: "#C82333 !important"}} className="logo"><Link to="/">Jahirul Islam</Link>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">

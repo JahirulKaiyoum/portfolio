@@ -13,6 +13,7 @@ import Aboute from "./components/About/Aboute";
 import Portfolio from "./components/Portfolio/Portfolio";
 import Blogs from "./components/Blogs/Blogs";
 import Menu from "./components/Menu/Menu";
+import Contact from "./components/Contact/Contact";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
           <Portfolio></Portfolio>
         </Route>
         <Route path='/contact'>
+          <Contact></Contact>
         </Route>
         <Route exact path='/'>
         <Home></Home>

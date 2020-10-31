@@ -1,0 +1,28 @@
+.contact-section{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-color: #24263B;
+}
+
+.contact-heading{
+    padding-bottom: 50px;
+    color: white;
+}
+
+.icon-style{
+
+    font-size:50px;
+    padding-top:10px;
+    text-align:right;
+}
+.icon-content{
+border-left: 2px solid black;
+
+}
+
+;
+
+.input-pad{
+
+    padding: 1.375rem .75rem!important;
+}
